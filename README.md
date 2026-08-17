@@ -1,4 +1,4 @@
-# 🚀 Hydra Launcher Source JSON & Download 2026
+# Hydra Launcher Source JSON & Auto Injector (2026)
 
 ## 📥 Download
 
